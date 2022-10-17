@@ -90,6 +90,24 @@ def hcis2gdf (hcisList):
     
     return gdf
 
+def poly2level (level, poly):
+    
+    """Convert polygon into HCIS geodataframe
+
+    Args:
+        level (geodataframe): HCIS Level geodataframe
+        poly (geodataframe): Input polygon dataframe
+
+    Returns:
+        gdf (geodataframe): Geodataframe of HCIS polygons
+    """
+    
+    gdf = gpd.overlay(level, poly, how="intersection")
+    hcisList = gdf['HCIS_ID'].to_list()
+    gdf = hcis2gdf(hcisList)
+    
+    return gdf
+
 def preview (gdf, name):
     """
 
