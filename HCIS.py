@@ -73,6 +73,23 @@ def buildLevels():
     
     return l1, l2, l3, l4
 
+def hcis2gdf (hcisList):
+    """Convert list of HCIS identifiers into a geodataframe.
+
+    Args:
+        hcisList (list): List of HCIS identifier strings
+
+    Returns:
+        gdf (geodataframe): Geodataframe of input HCIS identifiers
+    """
+    
+    asmg = gpd.read_file("ASMG/ASMG.shp")
+    hcisList = pd.Series(hcisList)
+    gdf = asmg[asmg['HCIS_ID'].isin(hcisList)]
+    gdf.reset_index(inplace=True)
+    
+    return gdf
+
 def preview (gdf, name):
     """
 
