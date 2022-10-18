@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Geographic area for HCIS description</name>
+	<snippet></snippet>
+	<description><![CDATA[<p>This placemark represents the geographic area represented by the HCIS description:</p>
+		<p style="margin-left: 5%; margin-right: 5%">AR8, AR9, AS3, AS2A, AS2B, AS2C, AS2D, AS2G, AS2H, AS2K, AS2L, AS6B, AS6C, AS6D, BR4A, BR4B, BR4C, BR4E, BR4F, BR4G, BR4I, BR4J, BR4K, BR4L, BR4M, BR4N, BR4O, BR4P, BR5F, BR5I, BR5J, BR5M, BR7A, BR7B, BR7C, BR7D, BR7E, BR7F, BR7G, BR7H, BR7I, BR7J, BR7K, BR7L, BR7M, BR7N, BR7O, BR8A, BR8E, BR8I, BS1A, BS1B, BS1E, BS1F, BS1I, BS1J, BS1M, AS2E1, AS2E2, AS2E3, AS2E5, AS2E6, AS2F1, AS2F2, AS2F3, AS2F4, AS2F5, AS2F6, AS2F8, AS2F9, AS2J2, AS2J3, AS2N3, AS2O1, AS2O2, AS2O7, AS2P1, AS2P2, AS2P3, AS2P5, AS2P6, AS2P8, AS2P9, AS5D3, AS5D6, AS6A1, AS6A2, AS6A3, AS6A4, AS6A5, AS6A6, AS6A7, AS6A9, AS6F1, AS6F2, AS6F3, AS6F6, AS6G1, AS6G2, AS6G3, AS6G4, AS6G5, AS6G6, AS6H1, AS6H2, AS6H3, BR4D1, BR4D3, BR4D4, BR4D5, BR4D6, BR4D7, BR4D8, BR4D9, BR4H1, BR4H2, BR4H4, BR4H5, BR4H6, BR4H7, BR4H8, BR4H9, BR5A1, BR5A2, BR5A4, BR5B5, BR5B6, BR5B7, BR5B8, BR5B9, BR5C1, BR5C4, BR5E2, BR5E3, BR5E4, BR5E5, BR5E6, BR5E7, BR5E8, BR5E9, BR5G1, BR5G2, BR5G4, BR5K1, BR5K4, BR5N1, BR7P1, BR7P2, BR7P3, BR7P4, BR7P5, BR7P6, BR7P7, BR7P8, BR8B4, BR8B5, BR8B7, BR8B8, BR8J7, BR8N4, BS1C1, BS1C2, BS1C3, BS1C4, BS1C5, BS1C6, BS1C7, BS1C8, BS1D1, BS1D2, BS1D4, BS1D8, BS1G1, BS1G2, BS1G4, BS1G5, BS1G7, BS1G8, BS1H2, BS1K1, BS1K2, BS1K4, BS1K7, BS1N1, BS1N2, BS1N3, BS1N4, BS1N5, BS1N6, BS1N7, BS1N8, BS1O1, BS4A1, BS4A2, BS4A3, BS4A4, BS4A5, BS4A6, BS4A7, BS4A8, BS4B1, BS4B2, BS4D2.</p>
+		<p>Population in area: 4377 (2021 Census)</p>
+		<p>The ACMA uses HCIS identifiers to describe areas aligned with the <a href="https://www.acma.gov.au/australian-spectrum-map-grid">Australian Spectrum Map Grid 2012</a>.</p>
+		<p>Population counts for ASMG areas are computed from 2021 Census data supplied by the <a href="http://www.abs.gov.au/">Australian Bureau of Statistics</a>.</p>
+		<p>Coordinate datum: GDA94.</p>
+		<p>&copy;&nbsp;Commonwealth&nbsp;of&nbsp;Australia&nbsp;2022.</p>
+		<p>This data is licensed under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)
+		 licence</a>.  We request attribution as <em>Australian&nbsp;Communications&nbsp;and&nbsp;Media&nbsp;Authority
+		 &copy;&nbsp;Commonwealth of Australia</em>.  Written requests for permission or enquiries should be
+		 emailed to <a href="mailto:info@acma.gov.au">info@acma.gov.au</a>.</p>
+		<p><a href="https://www.acma.gov.au/data_disclaimer">Disclaimer - downloadable data</a></p>
+		<p><em>Reference data last updated August 12, 2023</em></p>
+		<p><em>Generated: Tue Oct 18 13:06:38 UTC+1100 2022</em></p>]]></description>
+	<Style id="hcis_primary">
+		<LabelStyle><color>ff00ffff</color><scale>0.7</scale></LabelStyle>
+		<LineStyle><color>ccff55aa</color><width>2</width></LineStyle>
+		<PolyStyle><color>abff55aa</color></PolyStyle>
+		<IconStyle><scale>0</scale></IconStyle>
+	</Style>
+	<open>1</open>
+	<Placemark>
+		<name>AR8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.501318373636,-21.4987135378814,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.001332399978,-20.9987126424578,0 113.001338034338,-21.998721368931,0 114.001304347294,-21.9987144333051,0 114.001325990359,-20.9987049741657,0 113.001332399978,-20.9987126424578,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AR9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.501316002497,-21.4987062915976,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.001325990359,-20.9987049741657,0 114.001304347294,-21.9987144333051,0 115.001306014635,-21.9987076090295,0 115.001296501248,-20.9986981952632,0 114.001325990359,-20.9987049741657,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.50131018735,-22.4987123190326,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.001304347294,-21.9987144333051,0 114.00130940714,-22.9987160388334,0 115.001316027406,-22.9987102047602,0 115.001306014635,-21.9987076090295,0 114.001304347294,-21.9987144333051,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2A</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.126334059871,-22.12372156478,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.001338034338,-21.998721368931,0 113.001339671656,-22.2487230688554,0 113.251330085404,-22.2487217606291,0 113.251329284185,-21.9987199725045,0 113.001338034338,-21.998721368931,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2B</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.376325034543,-22.1237204478479,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.251329284185,-21.9987199725045,0 113.251330085404,-22.2487217606291,0 113.501320784901,-22.2487209231912,0 113.501321356429,-21.9987186647197,0 113.251329284185,-21.9987199725045,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2C</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.626316552228,-22.1237182346685,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.501321356429,-21.9987186647197,0 113.501320784901,-22.2487209231912,0 113.751311748028,-22.2487178046174,0 113.751312481386,-21.9987155447624,0 113.501321356429,-21.9987186647197,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2D</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.876308803735,-22.1237157957274,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.751312481386,-21.9987155447624,0 113.751311748028,-22.2487178046174,0 114.001305126084,-22.2487160466924,0 114.001304347294,-21.9987144333051,0 113.751312481386,-21.9987155447624,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2G</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.626315518426,-22.3737201404866,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.501320784901,-22.2487209231912,0 113.501318778638,-22.4987201140545,0 113.751310251951,-22.4987193577819,0 113.751311748028,-22.2487178046174,0 113.501320784901,-22.2487209231912,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2H</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.876309770103,-22.3737184628734,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.751311748028,-22.2487178046174,0 113.751310251951,-22.4987193577819,0 114.001307792178,-22.4987191211294,0 114.001305126084,-22.2487160466924,0 113.751311748028,-22.2487178046174,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2K</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.626314443151,-22.6237180638093,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.501318778638,-22.4987201140545,0 113.501321347672,-22.7487199191988,0 113.751310107664,-22.748716013564,0 113.751310251951,-22.4987193577819,0 113.501318778638,-22.4987201140545,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2L</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.87630922784,-22.6237177806357,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.751310251951,-22.4987193577819,0 113.751310107664,-22.748716013564,0 114.00130820373,-22.7487162034894,0 114.001307792178,-22.4987191211294,0 113.751310251951,-22.4987193577819,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6B</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.376314084589,-23.123715856951,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.251312053056,-22.9987153666844,0 114.251312733006,-23.2487176141474,0 114.501316116121,-23.2487163472176,0 114.501314215748,-22.9987140353962,0 114.251312053056,-22.9987153666844,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6C</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.626315820901,-23.1237142788702,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.501314215748,-22.9987140353962,0 114.501316116121,-23.2487163472176,0 114.751317426055,-23.2487145223441,0 114.751316194829,-22.9987125254266,0 114.501314215748,-22.9987140353962,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6D</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.876316600567,-23.1237122765147,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.751316194829,-22.9987125254266,0 114.751317426055,-23.2487145223441,0 115.001317006305,-23.2487120276027,0 115.001316027406,-22.9987102047602,0 114.751316194829,-22.9987125254266,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4A</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126313935489,-20.1236881242858,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001319315375,-19.9986882038911,0 115.001312709826,-20.2486904862633,0 115.251308555603,-20.2486880446805,0 115.251317528928,-19.9986861550808,0 115.001319315375,-19.9986882038911,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4B</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376310961865,-20.1236861345945,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251317528928,-19.9986861550808,0 115.251308555603,-20.2486880446805,0 115.501304394801,-20.2486861141081,0 115.501316783884,-19.9986843272197,0 115.251317528928,-19.9986861550808,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4C</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626311660328,-20.1236824734638,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501316783884,-19.9986843272197,0 115.501304394801,-20.2486861141081,0 115.751306536772,-20.2486806197078,0 115.751316177153,-19.9986813994102,0 115.501316783884,-19.9986843272197,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4E</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126305846947,-20.3736902489927,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001312709826,-20.2486904862633,0 115.001306482907,-20.4986930612134,0 115.251298984068,-20.4986900117221,0 115.251308555603,-20.2486880446805,0 115.001312709826,-20.2486904862633,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4F</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376302502575,-20.3736867389414,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251308555603,-20.2486880446805,0 115.251298984068,-20.4986900117221,0 115.501296449546,-20.4986854332023,0 115.501304394801,-20.2486861141081,0 115.251308555603,-20.2486880446805,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4G</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626301866365,-20.3736826665534,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501304394801,-20.2486861141081,0 115.501296449546,-20.4986854332023,0 115.751299337929,-20.4986792189987,0 115.751306536772,-20.2486806197078,0 115.501304394801,-20.2486861141081,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4I</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126299632412,-20.6236930273124,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001306482907,-20.4986930612134,0 115.001299129666,-20.7486958486798,0 115.251292781918,-20.7486929934113,0 115.251298984068,-20.4986900117221,0 115.001306482907,-20.4986930612134,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4J</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376296513117,-20.6236879845902,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251298984068,-20.4986900117221,0 115.251292781918,-20.7486929934113,0 115.501294042166,-20.7486859574583,0 115.501296449546,-20.4986854332023,0 115.251298984068,-20.4986900117221,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4K</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626295059382,-20.6236811362814,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501296449546,-20.4986854332023,0 115.501294042166,-20.7486859574583,0 115.751293669218,-20.7486768393605,0 115.751299337929,-20.4986792189987,0 115.501296449546,-20.4986854332023,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4L</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876299888175,-20.6236730900959,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751299337929,-20.4986792189987,0 115.751293669218,-20.7486768393605,0 116.001300438422,-20.7486669611931,0 116.001305919709,-20.4986694412761,0 115.751299337929,-20.4986792189987,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4M</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126291724282,-20.8736963125217,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001299129666,-20.7486958486798,0 115.001296501248,-20.9986981952632,0 115.251284318897,-20.9986967763636,0 115.251292781918,-20.7486929934113,0 115.001299129666,-20.7486958486798,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4N</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376291510087,-20.873689306577,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251292781918,-20.7486929934113,0 115.251284318897,-20.9986967763636,0 115.501290238257,-20.9986856197428,0 115.501294042166,-20.7486859574583,0 115.251292781918,-20.7486929934113,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4O</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626294596983,-20.8736799917398,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501294042166,-20.7486859574583,0 115.501290238257,-20.9986856197428,0 115.751295151799,-20.9986740260213,0 115.751293669218,-20.7486768393605,0 115.501294042166,-20.7486859574583,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4P</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876295449771,-20.8736725803658,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751293669218,-20.7486768393605,0 115.751295151799,-20.9986740260213,0 116.001297230323,-20.9986683213711,0 116.001300438422,-20.7486669611931,0 115.751293669218,-20.7486768393605,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5F</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376309894471,-20.3736634864998,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251310686579,-20.2486676114577,0 116.251307281683,-20.4986641779947,0 116.501309102362,-20.498659361542,0 116.501309992472,-20.2486625056797,0 116.251310686579,-20.2486676114577,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5I</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126304705003,-20.6236655298354,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001305919709,-20.4986694412761,0 116.001300438422,-20.7486669611931,0 116.251303490297,-20.7486616183946,0 116.251307281683,-20.4986641779947,0 116.001305919709,-20.4986694412761,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5J</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376306499927,-20.6236617043063,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251307281683,-20.4986641779947,0 116.251303490297,-20.7486616183946,0 116.501305718172,-20.7486592306178,0 116.501309102362,-20.498659361542,0 116.251307281683,-20.4986641779947,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5M</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126300592732,-20.8736659774515,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001300438422,-20.7486669611931,0 116.001297230323,-20.9986683213711,0 116.251300747041,-20.99866499371,0 116.251303490297,-20.7486616183946,0 116.001300438422,-20.7486669611931,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7A</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126293151953,-21.123696984737,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001296501248,-20.9986981952632,0 115.001294205513,-21.248703692136,0 115.251289802657,-21.2486957742108,0 115.251284318897,-20.9986967763636,0 115.001296501248,-20.9986981952632,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7B</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376289532155,-21.1236917229493,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251284318897,-20.9986967763636,0 115.251289802657,-21.2486957742108,0 115.501294745413,-21.2486866695351,0 115.501290238257,-20.9986856197428,0 115.251284318897,-20.9986967763636,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7C</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626294957804,-21.123681117517,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501290238257,-20.9986856197428,0 115.501294745413,-21.2486866695351,0 115.751299677351,-21.2486766152912,0 115.751295151799,-20.9986740260213,0 115.501290238257,-20.9986856197428,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7D</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876298192276,-21.12367279364,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751295151799,-20.9986740260213,0 115.751299677351,-21.2486766152912,0 116.001301232753,-21.2486715612588,0 116.001297230323,-20.9986683213711,0 115.751295151799,-20.9986740260213,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7E</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126295000852,-21.3737016447606,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001294205513,-21.248703692136,0 115.001296423939,-21.4987075367533,0 115.251295796191,-21.4986995973852,0 115.251289802657,-21.2486957742108,0 115.001294205513,-21.248703692136,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7F</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376294734868,-21.3736931049456,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251289802657,-21.2486957742108,0 115.251295796191,-21.4986995973852,0 115.501299667079,-21.4986904356803,0 115.501294745413,-21.2486866695351,0 115.251289802657,-21.2486957742108,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7G</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626299155641,-21.3736842333682,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501294745413,-21.2486866695351,0 115.501299667079,-21.4986904356803,0 115.75130356587,-21.4986817972013,0 115.751299677351,-21.2486766152912,0 115.501294745413,-21.2486866695351,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7H</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876302576448,-21.3736763252815,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751299677351,-21.2486766152912,0 115.75130356587,-21.4986817972013,0 116.001305475544,-21.4986760352717,0 116.001301232753,-21.2486715612588,0 115.751299677351,-21.2486766152912,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7I</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126299186548,-21.6237055110416,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001296423939,-21.4987075367533,0 115.001301865136,-21.7487087903641,0 115.251301949157,-21.7487034853299,0 115.251295796191,-21.4986995973852,0 115.001296423939,-21.4987075367533,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7J</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376300038695,-21.6236973712842,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251295796191,-21.4986995973852,0 115.251301949157,-21.7487034853299,0 115.501304281199,-21.7486951451831,0 115.501299667079,-21.4986904356803,0 115.251295796191,-21.4986995973852,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7K</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626303332816,-21.6236887602085,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501299667079,-21.4986904356803,0 115.501304281199,-21.7486951451831,0 115.751306998553,-21.7486870847366,0 115.75130356587,-21.4986817972013,0 115.501299667079,-21.4986904356803,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7L</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876306249352,-21.6236814101611,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.75130356587,-21.4986817972013,0 115.751306998553,-21.7486870847366,0 116.001308932834,-21.7486810231209,0 116.001305475544,-21.4986760352717,0 115.75130356587,-21.4986817972013,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7M</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126304409725,-21.8737059900937,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001301865136,-21.7487087903641,0 115.001306014635,-21.9987076090295,0 115.251306954313,-21.9987031898234,0 115.251301949157,-21.7487034853299,0 115.001301865136,-21.7487087903641,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7N</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376305537533,-21.8737000668049,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251301949157,-21.7487034853299,0 115.251306954313,-21.9987031898234,0 115.501309125909,-21.9986966482798,0 115.501304281199,-21.7486951451831,0 115.251301949157,-21.7487034853299,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7O</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626307515289,-21.8736923922065,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501304281199,-21.7486951451831,0 115.501309125909,-21.9986966482798,0 115.751310749378,-21.9986896392298,0 115.751306998553,-21.7486870847366,0 115.501304281199,-21.7486951451831,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8A</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126300460247,-21.1236682827016,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001297230323,-20.9986683213711,0 116.001301232753,-21.2486715612588,0 116.251303690172,-21.2486682440322,0 116.251300747041,-20.99866499371,0 116.001297230323,-20.9986683213711,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8E</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126304009667,-21.3736716059329,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001301232753,-21.2486715612588,0 116.001305475544,-21.4986760352717,0 116.251306786581,-21.4986716506069,0 116.251303690172,-21.2486682440322,0 116.001301232753,-21.2486715612588,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8I</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126307452387,-21.6236759338997,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001305475544,-21.4986760352717,0 116.001308932834,-21.7486810231209,0 116.251309429231,-21.7486758325277,0 116.251306786581,-21.4986716506069,0 116.001305475544,-21.4986760352717,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1A</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126308410742,-22.1237054361826,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001306014635,-21.9987076090295,0 115.001309492264,-22.2487066098054,0 115.251310806848,-22.2487032633358,0 115.251306954313,-21.9987031898234,0 115.001306014635,-21.9987076090295,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1B</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.37631038395,-22.1237006713652,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251306954313,-21.9987031898234,0 115.251310806848,-22.2487032633358,0 115.501313813586,-22.2486981529071,0 115.501309125909,-21.9986966482798,0 115.251306954313,-21.9987031898234,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1E</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126312137813,-22.3737051157157,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001309492264,-22.2487066098054,0 115.001312872083,-22.4987059436021,0 115.251314783361,-22.4987036216259,0 115.251310806848,-22.2487032633358,0 115.001309492264,-22.2487066098054,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1F</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376314644129,-22.3737008288172,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251310806848,-22.2487032633358,0 115.251314783361,-22.4987036216259,0 115.50131848141,-22.4986983942986,0 115.501313813586,-22.2486981529071,0 115.251310806848,-22.2487032633358,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1I</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126315876952,-22.6237050082728,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001312872083,-22.4987059436021,0 115.001315364823,-22.7487075743263,0 115.251318881821,-22.7487040729434,0 115.251314783361,-22.4987036216259,0 115.001312872083,-22.4987059436021,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1J</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376319083299,-22.6237018970501,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251314783361,-22.4987036216259,0 115.251318881821,-22.7487040729434,0 115.501323383237,-22.7487001724744,0 115.50131848141,-22.4986983942986,0 115.251314783361,-22.4987036216259,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1M</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126318796071,-22.873706858813,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001315364823,-22.7487075743263,0 115.001316027406,-22.9987102047602,0 115.251322227319,-22.9987061432997,0 115.251318881821,-22.7487040729434,0 115.001315364823,-22.7487075743263,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2E1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.043004650595,-22.290389510766,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.001339671656,-22.2487230688554,0 113.001339500863,-22.3320563725336,0 113.084669629535,-22.3320559526765,0 113.084670027014,-22.2487226406586,0 113.001339671656,-22.2487230688554,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2E2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.126334886543,-22.2903890773413,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.084670027014,-22.2487226406586,0 113.084669629535,-22.3320559526765,0 113.167999746072,-22.332055514024,0 113.168000273651,-22.2487222085225,0 113.084670027014,-22.2487226406586,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2E3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.209665043859,-22.2903886043559,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.168000273651,-22.2487222085225,0 113.167999746072,-22.332055514024,0 113.251329814068,-22.3320550001894,0 113.251330085404,-22.2487217606291,0 113.168000273651,-22.2487222085225,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2E5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.126334491396,-22.3737226529793,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.084669629535,-22.3320559526765,0 113.084669348943,-22.4153900076054,0 113.167999353257,-22.4153893532822,0 113.167999746072,-22.332055514024,0 113.084669629535,-22.3320559526765,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2E6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.20966455861,-22.3737220879706,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.167999746072,-22.332055514024,0 113.167999353257,-22.4153893532822,0 113.251329371149,-22.4153886619173,0 113.251329814068,-22.3320550001894,0 113.167999746072,-22.332055514024,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.292995066947,-22.2903883223687,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.251330085404,-22.2487217606291,0 113.251329814068,-22.3320550001894,0 113.33466004849,-22.3320548841083,0 113.334660114668,-22.2487214319255,0 113.251330085404,-22.2487217606291,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.376325323609,-22.2903883982915,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.334660114668,-22.2487214319255,0 113.33466004849,-22.3320548841083,0 113.417990532549,-22.3320553646575,0 113.417990470197,-22.2487212820063,0 113.334660114668,-22.2487214319255,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.459655664907,-22.2903883022242,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.417990470197,-22.2487212820063,0 113.417990532549,-22.3320553646575,0 113.501320859616,-22.332055322442,0 113.501320784901,-22.2487209231912,0 113.417990470197,-22.2487212820063,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.292994645535,-22.3737216142707,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.251329814068,-22.3320550001894,0 113.251329371149,-22.4153886619173,0 113.334659477001,-22.415388228352,0 113.33466004849,-22.3320548841083,0 113.251329814068,-22.3320550001894,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.376324881641,-22.3737215327971,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.33466004849,-22.3320548841083,0 113.334659477001,-22.415388228352,0 113.417989714793,-22.4153881814859,0 113.417990532549,-22.3320553646575,0 113.33466004849,-22.3320548841083,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.459655237794,-22.3737216527554,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.417990532549,-22.3320553646575,0 113.417989714793,-22.4153881814859,0 113.501319943039,-22.4153879408532,0 113.501320859616,-22.332055322442,0 113.417990532549,-22.3320553646575,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.376324077006,-22.4570544551053,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.334659477001,-22.415388228352,0 113.334658779186,-22.4987215456109,0 113.41798867701,-22.4987206818587,0 113.417989714793,-22.4153881814859,0 113.334659477001,-22.415388228352,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2F9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.459654246716,-22.4570541477702,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.417989714793,-22.4153881814859,0 113.41798867701,-22.4987206818587,0 113.501318778638,-22.4987201140545,0 113.501319943039,-22.4153879408532,0 113.417989714793,-22.4153881814859,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2J2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.376324138413,-22.5403877288054,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.334658779186,-22.4987215456109,0 113.334659118564,-22.5820546022119,0 113.417989497641,-22.5820539119999,0 113.41798867701,-22.4987206818587,0 113.334658779186,-22.4987215456109,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2J3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.459654201105,-22.5403869629519,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.41798867701,-22.4987206818587,0 113.417989497641,-22.5820539119999,0 113.501319725199,-22.5820532440452,0 113.501318778638,-22.4987201140545,0 113.41798867701,-22.4987206818587,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2N3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.459656770597,-22.7903871499683,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.417991398593,-22.748720818498,0 113.417992356725,-22.8320545060808,0 113.501322142602,-22.8320534814385,0 113.501321347672,-22.7487199191988,0 113.417991398593,-22.748720818498,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2O1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.542986641848,-22.7903861872241,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.501321347672,-22.7487199191988,0 113.501322142602,-22.8320534814385,0 113.584651936024,-22.8320524552493,0 113.584651206251,-22.7487189744039,0 113.501321347672,-22.7487199191988,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2O2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.626316456265,-22.7903850649765,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.584651206251,-22.7487189744039,0 113.584651936024,-22.8320524552493,0 113.667981706279,-22.8320511555492,0 113.667980702277,-22.7487175534978,0 113.584651206251,-22.7487189744039,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2O7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.542988233257,-22.9570536239966,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.501323048396,-22.9153871730865,0 113.501323656035,-22.9987212571391,0 113.584653418118,-22.9987200749068,0 113.584652902936,-22.9153860253987,0 113.501323048396,-22.9153871730865,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.792976640119,-22.7903829004931,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.751310107664,-22.748716013564,0 113.751311470741,-22.8320497874713,0 113.834643172575,-22.8320497874223,0 113.83464245313,-22.7487165869705,0 113.751310107664,-22.748716013564,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.87630883026,-22.7903831313471,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.83464245313,-22.7487165869705,0 113.834643172575,-22.8320497874223,0 113.917975207391,-22.8320496757237,0 113.917974975207,-22.748716905328,0 113.83464245313,-22.7487165869705,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.95964177467,-22.7903830113774,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.917974975207,-22.748716905328,0 113.917975207391,-22.8320496757237,0 114.001308574132,-22.8320491174268,0 114.00130820373,-22.7487162034894,0 113.917974975207,-22.748716905328,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.876309358164,-22.8737162272994,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.834643172575,-22.8320497874223,0 113.834643828938,-22.9153832432272,0 113.917975543752,-22.9153826671765,0 113.917975207391,-22.8320496757237,0 113.834643172575,-22.8320497874223,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.959642204274,-22.8737160032325,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.917975207391,-22.8320496757237,0 113.917975543752,-22.9153826671765,0 114.001309201158,-22.9153823307414,0 114.001308574132,-22.8320491174268,0 113.917975207391,-22.8320496757237,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.87630968531,-22.957049751348,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.834643828938,-22.9153832432272,0 113.834643480454,-22.9987170344714,0 113.917975541682,-22.9987162594687,0 113.917975543752,-22.9153826671765,0 113.834643828938,-22.9153832432272,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS2P9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.959642475446,-22.957049353005,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.917975543752,-22.9153826671765,0 113.917975541682,-22.9987162594687,0 114.00130940714,-22.9987160388334,0 114.001309201158,-22.9153823307414,0 113.917975543752,-22.9153826671765,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS5D3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.959642437054,-23.0403831681229,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.917975541682,-22.9987162594687,0 113.917975313991,-23.0820502523205,0 114.001309332426,-23.0820500767771,0 114.00130940714,-22.9987160388334,0 113.917975541682,-22.9987162594687,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS5D6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>113.95964234574,-23.1237173975773,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>113.917975313991,-23.0820502523205,0 113.917975250687,-23.1653848331472,0 114.00130937749,-23.1653845428341,0 114.001309332426,-23.0820500767771,0 113.917975313991,-23.0820502523205,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.042976468406,-23.0403829700711,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.00130940714,-22.9987160388334,0 114.001309332426,-23.0820500767771,0 114.084643529672,-23.0820499013088,0 114.084643490099,-22.9987158248307,0 114.00130940714,-22.9987160388334,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.126310742616,-23.0403827753921,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.084643490099,-22.9987158248307,0 114.084643529672,-23.0820499013088,0 114.167977995133,-23.0820497259534,0 114.167977899308,-22.9987156207768,0 114.084643490099,-22.9987158248307,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.209645073745,-23.0403824756273,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.167977899308,-22.9987156207768,0 114.167977995133,-23.0820497259534,0 114.251312248182,-23.0820493304779,0 114.251312053056,-22.9987153666844,0 114.167977899308,-22.9987156207768,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.042976493332,-23.1237171784734,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.001309332426,-23.0820500767771,0 114.00130937749,-23.1653845428341,0 114.084643654238,-23.1653842801698,0 114.084643529672,-23.0820499013088,0 114.001309332426,-23.0820500767771,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.126310842788,-23.1237169801437,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.084643529672,-23.0820499013088,0 114.084643654238,-23.1653842801698,0 114.167978155904,-23.1653840589785,0 114.167977995133,-23.0820497259534,0 114.084643529672,-23.0820499013088,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.209645240237,-23.1237165892419,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.167977995133,-23.0820497259534,0 114.167978155904,-23.1653840589785,0 114.25131248534,-23.1653834525303,0 114.251312248182,-23.0820493304779,0 114.167977995133,-23.0820497259534,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.042976588771,-23.2070516387303,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.00130937749,-23.1653845428341,0 114.001309452498,-23.2487191159195,0 114.084643800053,-23.2487187346264,0 114.084643654238,-23.1653842801698,0 114.00130937749,-23.1653845428341,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6A9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.209645444455,-23.2070508365629,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.167978155904,-23.1653840589785,0 114.167978332911,-23.2487184489656,0 114.251312733006,-23.2487176141474,0 114.25131248534,-23.1653834525303,0 114.167978155904,-23.1653840589785,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6F1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.29297997881,-23.2903840597536,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.251312733006,-23.2487176141474,0 114.251312966543,-23.3320516035488,0 114.334647224615,-23.3320505053598,0 114.334647044591,-23.2487164132242,0 114.251312733006,-23.2487176141474,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6F2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.376314384876,-23.2903833257294,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.334647044591,-23.2487164132242,0 114.334647224615,-23.3320505053598,0 114.417981725161,-23.3320502382345,0 114.417981555447,-23.248716250452,0 114.334647044591,-23.2487164132242,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6F3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.459648920886,-23.2903832146636,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.417981555447,-23.248716250452,0 114.417981725161,-23.3320502382345,0 114.501316286325,-23.3320501788752,0 114.501316116121,-23.2487163472176,0 114.417981555447,-23.248716250452,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6F6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.459649111082,-23.3737171815084,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.417981725161,-23.3320502382345,0 114.417981955518,-23.4153843199814,0 114.501316497002,-23.4153841247824,0 114.501316286325,-23.3320501788752,0 114.417981725161,-23.3320502382345,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.54298298983,-23.2903829574152,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.501316116121,-23.2487163472176,0 114.501316286325,-23.3320501788752,0 114.584649863539,-23.3320495676128,0 114.584650156395,-23.2487156316675,0 114.501316116121,-23.2487163472176,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.626316820918,-23.2903823160978,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.584650156395,-23.2487156316675,0 114.584649863539,-23.3320495676128,0 114.667983485441,-23.3320490005281,0 114.667984061521,-23.2487149697469,0 114.584650156395,-23.2487156316675,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.709650673807,-23.2903817899507,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.667984061521,-23.2487149697469,0 114.667983485441,-23.3320490005281,0 114.751317286094,-23.3320486101545,0 114.751317426055,-23.2487145223441,0 114.667984061521,-23.2487149697469,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.542983092687,-23.3737168899976,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.501316286325,-23.3320501788752,0 114.501316497002,-23.4153841247824,0 114.584649899048,-23.41538360112,0 114.584649863539,-23.3320495676128,0 114.501316286325,-23.3320501788752,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.626316642961,-23.3737163373644,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.584649863539,-23.3320495676128,0 114.584649899048,-23.41538360112,0 114.667983422382,-23.415383107116,0 114.667983485441,-23.3320490005281,0 114.584649863539,-23.3320495676128,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6G6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.709650458154,-23.3737158661369,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.667983485441,-23.3320490005281,0 114.667983422382,-23.415383107116,0 114.751317430867,-23.4153827317458,0 114.751317286094,-23.3320486101545,0 114.667983485441,-23.3320490005281,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6H1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.792984076052,-23.2903812547165,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.751317426055,-23.2487145223441,0 114.751317286094,-23.3320486101545,0 114.834650726049,-23.3320479870889,0 114.834650507106,-23.2487138985999,0 114.751317426055,-23.2487145223441,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6H2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.87631706603,-23.2903804567926,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.834650507106,-23.2487138985999,0 114.834650726049,-23.3320479870889,0 114.917983624955,-23.3320470149854,0 114.917983162933,-23.2487130103435,0 114.834650507106,-23.2487138985999,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>AS6H3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>114.959650443302,-23.2903794282037,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>114.917983162933,-23.2487130103435,0 114.917983624955,-23.3320470149854,0 115.001317723671,-23.3320458460639,0 115.001317006305,-23.2487120276027,0 114.917983162933,-23.2487130103435,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792980330205,-20.0403473107699,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751316177153,-19.9986813994102,0 115.751311254128,-20.0820150645181,0 115.834644483256,-20.0820132221296,0 115.834649152736,-19.9986798104435,0 115.751316177153,-19.9986813994102,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959649551035,-20.0403428052948,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.917982780821,-19.9986777372223,0 115.917980103378,-20.0820106401921,0 116.001316321249,-20.0820078733674,0 116.00131657203,-19.9986755429374,0 115.917982780821,-19.9986777372223,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792976701444,-20.1236804930304,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751311254128,-20.0820150645181,0 115.751308610523,-20.1653479407256,0 115.83464214876,-20.1653459215426,0 115.834644483256,-20.0820132221296,0 115.751311254128,-20.0820150645181,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876311185548,-20.1236781396648,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834644483256,-20.0820132221296,0 115.83464214876,-20.1653459215426,0 115.91797788784,-20.1653430572001,0 115.917980103378,-20.0820106401921,0 115.834644483256,-20.0820132221296,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959647140254,-20.1236753108799,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.917980103378,-20.0820106401921,0 115.91797788784,-20.1653430572001,0 116.00131417713,-20.1653399815677,0 116.001316321249,-20.0820078733674,0 115.917980103378,-20.0820106401921,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792974504267,-20.2070131918064,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751308610523,-20.1653479407256,0 115.751306536772,-20.2486806197078,0 115.834640398011,-20.2486784428873,0 115.83464214876,-20.1653459215426,0 115.751308610523,-20.1653479407256,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876308968269,-20.2070106371301,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.83464214876,-20.1653459215426,0 115.834640398011,-20.2486784428873,0 115.917975787778,-20.2486753527176,0 115.91797788784,-20.1653430572001,0 115.83464214876,-20.1653459215426,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4D9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959644723759,-20.2070075457054,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.91797788784,-20.1653430572001,0 115.917975787778,-20.2486753527176,0 116.001311559677,-20.2486720342106,0 116.00131417713,-20.1653399815677,0 115.91797788784,-20.1653430572001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.79297252677,-20.2903458107957,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751306536772,-20.2486806197078,0 115.751304375085,-20.3320133310679,0 115.834638516769,-20.3320110018835,0 115.834640398011,-20.2486784428873,0 115.751306536772,-20.2486806197078,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876307108204,-20.2903431765361,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834640398011,-20.2486784428873,0 115.834638516769,-20.3320110018835,0 115.917973818396,-20.3320079101849,0 115.917975787778,-20.2486753527176,0 115.834640398011,-20.2486784428873,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792970424725,-20.3736785110279,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751304375085,-20.3320133310679,0 115.751302094435,-20.4153461199631,0 115.834636474365,-20.415343690988,0 115.834638516769,-20.3320110018835,0 115.751304375085,-20.3320133310679,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876305165745,-20.3736757599825,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834638516769,-20.3320110018835,0 115.834636474365,-20.415343690988,0 115.91797181472,-20.4153405180815,0 115.917973818396,-20.3320079101849,0 115.834638516769,-20.3320110018835,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959640606789,-20.3736725346885,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.917973818396,-20.3320079101849,0 115.91797181472,-20.4153405180815,0 116.001307395182,-20.4153371591921,0 116.00130941001,-20.3320046278577,0 115.917973818396,-20.3320079101849,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792967940876,-20.4570115102441,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751302094435,-20.4153461199631,0 115.751299337929,-20.4986792189987,0 115.834633787316,-20.4986769005252,0 115.834636474365,-20.415343690988,0 115.751302094435,-20.4153461199631,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876303074116,-20.4570085093416,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834636474365,-20.415343690988,0 115.834633787316,-20.4986769005252,0 115.917969673867,-20.4986733276952,0 115.91797181472,-20.4153405180815,0 115.834636474365,-20.415343690988,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR4H9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959638867215,-20.4570049796788,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.91797181472,-20.4153405180815,0 115.917969673867,-20.4986733276952,0 116.001305919709,-20.4986694412761,0 116.001307395182,-20.4153371591921,0 115.91797181472,-20.4153405180815,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5A1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.042982112705,-20.0403409342486,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.00131657203,-19.9986755429374,0 116.001316321249,-20.0820078733674,0 116.084647653379,-20.0820063255598,0 116.084647884864,-19.9986738486938,0 116.00131657203,-19.9986755429374,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5A2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126313563481,-20.0403392850143,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.084647884864,-19.9986738486938,0 116.084647653379,-20.0820063255598,0 116.167979242098,-20.0820047213348,0 116.167979565967,-19.9986721595913,0 116.084647884864,-19.9986738486938,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5A4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.042981342937,-20.1236731613067,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001316321249,-20.0820078733674,0 116.00131417713,-20.1653399815677,0 116.084646364624,-20.1653384492459,0 116.084647653379,-20.0820063255598,0 116.001316321249,-20.0820078733674,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5B5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376311092601,-20.1236663920987,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.334644709075,-20.0820011010746,0 116.334644139057,-20.1653335324694,0 116.417977476127,-20.1653316831229,0 116.417977916208,-20.0819993700052,0 116.334644709075,-20.0820011010746,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5B6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.459644156064,-20.1236648125478,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.417977916208,-20.0819993700052,0 116.417977476127,-20.1653316831229,0 116.50131039592,-20.1653302550905,0 116.501310817764,-20.0819980282401,0 116.417977916208,-20.0819993700052,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5B7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292977462583,-20.2070006305421,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251311241025,-20.1653352559349,0 116.251310686579,-20.2486676114577,0 116.33464368414,-20.2486660051493,0 116.334644139057,-20.1653335324694,0 116.251311241025,-20.1653352559349,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5B8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376310612593,-20.2069987818742,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.334644139057,-20.1653335324694,0 116.33464368414,-20.2486660051493,0 116.417977086129,-20.2486640312789,0 116.417977476127,-20.1653316831229,0 116.334644139057,-20.1653335324694,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5B9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.459643734299,-20.2069970944013,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.417977476127,-20.1653316831229,0 116.417977086129,-20.2486640312789,0 116.501309992472,-20.2486625056797,0 116.50131039592,-20.1653302550905,0 116.417977476127,-20.1653316831229,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5C1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542977414397,-20.0403314211781,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.501311313194,-19.9986658963451,0 116.501310817764,-20.0819980282401,0 116.5846435156,-20.0819969460111,0 116.584644029386,-19.9986648203709,0 116.501311313194,-19.9986658963451,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5C4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542976927646,-20.1236635680871,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.501310817764,-20.0819980282401,0 116.50131039592,-20.1653302550905,0 116.584643037528,-20.1653291079341,0 116.5846435156,-20.0819969460111,0 116.501310817764,-20.0819980282401,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126310608762,-20.2903358385756,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.084644811551,-20.248670484637,0 116.084642928755,-20.3320028907216,0 116.167976405974,-20.3320011925141,0 116.167977958638,-20.2486689727248,0 116.084644811551,-20.248670484637,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.209643837861,-20.2903343113729,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.167977958638,-20.2486689727248,0 116.167976405974,-20.3320011925141,0 116.251309717084,-20.3319996500211,0 116.251310686579,-20.2486676114577,0 116.167977958638,-20.2486689727248,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.042975279334,-20.3736699510806,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.00130941001,-20.3320046278577,0 116.001307395182,-20.4153371591921,0 116.084641148658,-20.4153352743036,0 116.084642928755,-20.3320028907216,0 116.00130941001,-20.3320046278577,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126308916215,-20.3736681616682,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.084642928755,-20.3320028907216,0 116.084641148658,-20.4153352743036,0 116.167974903675,-20.4153334326149,0 116.167976405974,-20.3320011925141,0 116.084642928755,-20.3320028907216,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.209642535414,-20.3736664781199,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.167976405974,-20.3320011925141,0 116.167974903675,-20.4153334326149,0 116.251308664854,-20.4153317637257,0 116.251309717084,-20.3319996500211,0 116.167976405974,-20.3320011925141,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.042973587268,-20.4570023635336,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.001307395182,-20.4153371591921,0 116.001305919709,-20.4986694412761,0 116.084639779354,-20.4986675678752,0 116.084641148658,-20.4153352743036,0 116.001307395182,-20.4153371591921,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.126307375748,-20.4570005141323,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.084641148658,-20.4153352743036,0 116.084639779354,-20.4986675678752,0 116.167973602838,-20.4986657539611,0 116.167974903675,-20.4153334326149,0 116.084641148658,-20.4153352743036,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5E9</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.209641092679,-20.4569988053048,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.167974903675,-20.4153334326149,0 116.167973602838,-20.4986657539611,0 116.251307281683,-20.4986641779947,0 116.251308664854,-20.4153317637257,0 116.167974903675,-20.4153334326149,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5G1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542976377219,-20.2903283102906,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.501309992472,-20.2486625056797,0 116.50130984817,-20.331995007614,0 116.584642761965,-20.3319941149016,0 116.584642568385,-20.2486612789278,0 116.501309992472,-20.2486625056797,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5G2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.626308782315,-20.2903269708336,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.584642568385,-20.2486612789278,0 116.584642761965,-20.3319941149016,0 116.667974996245,-20.3319926627395,0 116.66797521235,-20.2486603091381,0 116.584642568385,-20.2486612789278,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5G4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542976308143,-20.3736608800198,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.50130984817,-20.331995007614,0 116.501309627667,-20.415327401225,0 116.584642768115,-20.4153267524255,0 116.584642761965,-20.3319941149016,0 116.50130984817,-20.331995007614,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5K1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542975240304,-20.5403252501612,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.501309102362,-20.498659361542,0 116.501308345495,-20.5819918246671,0 116.584641378246,-20.5819911387804,0 116.584642024545,-20.4986585961497,0 116.501309102362,-20.498659361542,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5K4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.542974611674,-20.6236582772191,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.501308345495,-20.5819918246671,0 116.501307241289,-20.6653250420045,0 116.584640877854,-20.665324729771,0 116.584641378246,-20.5819911387804,0 116.501308345495,-20.5819918246671,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR5N1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292969493745,-20.7903282759922,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251303490297,-20.7486616183946,0 116.251301478285,-20.8319957877873,0 116.334635497193,-20.8319949335898,0 116.334637693628,-20.7486600566842,0 116.251303490297,-20.7486616183946,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792974442051,-21.7903531123827,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751306998553,-21.7486870847366,0 115.751308197808,-21.8320211280275,0 115.834641885548,-21.8320191400287,0 115.834641044861,-21.7486846287309,0 115.751306998553,-21.7486870847366,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876308423656,-21.7903509588873,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834641044861,-21.7486846287309,0 115.834641885548,-21.8320191400287,0 115.917975802451,-21.8320172890436,0 115.917975000217,-21.7486827533481,0 115.834641044861,-21.7486846287309,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959642388431,-21.79034911283,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.917975000217,-21.7486827533481,0 115.917975802451,-21.8320172890436,0 116.001309776645,-21.832015472312,0 116.001308932834,-21.7486810231209,0 115.917975000217,-21.7486827533481,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792975522612,-21.8736873734373,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751308197808,-21.8320211280275,0 115.751309422573,-21.9153552420885,0 115.834642847415,-21.9153536188472,0 115.834641885548,-21.8320191400287,0 115.751308197808,-21.8320211280275,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876309287994,-21.873685472113,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834641885548,-21.8320191400287,0 115.834642847415,-21.9153536188472,0 115.917976690441,-21.9153518041972,0 115.917975802451,-21.8320172890436,0 115.834641885548,-21.8320191400287,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.959643220232,-21.8736836153694,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.917975802451,-21.8320172890436,0 115.917976690441,-21.9153518041972,0 116.001310638013,-21.9153499416952,0 116.001309776645,-21.832015472312,0 115.917975802451,-21.8320172890436,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792976858287,-21.9570216049187,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751309422573,-21.9153552420885,0 115.751310749378,-21.9986896392298,0 115.834644294001,-21.9986879677488,0 115.834642847415,-21.9153536188472,0 115.751309422573,-21.9153552420885,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR7P8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876310384434,-21.9570199280151,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834642847415,-21.9153536188472,0 115.834644294001,-21.9986879677488,0 115.917977921453,-21.9986862371831,0 115.917976690441,-21.9153518041972,0 115.834642847415,-21.9153536188472,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8B4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292969547391,-21.1236660016294,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251301927777,-21.0819992619287,0 116.251303008667,-21.1653336044251,0 116.334637167004,-21.1653327413302,0 116.334636066555,-21.0819984865074,0 116.251301927777,-21.0819992619287,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8B5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376303267707,-21.1236650387217,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.334636066555,-21.0819984865074,0 116.334637167004,-21.1653327413302,0 116.417970468859,-21.165331590936,0 116.417969866146,-21.0819976073103,0 116.334636066555,-21.0819984865074,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8B7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292970273914,-21.2070003794937,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251303008667,-21.1653336044251,0 116.251303690172,-21.2486682440322,0 116.334637539161,-21.2486671545623,0 116.334637167004,-21.1653327413302,0 116.251303008667,-21.1653336044251,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8B8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.376303986022,-21.2069993053567,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.334637167004,-21.1653327413302,0 116.334637539161,-21.2486671545623,0 116.417970805041,-21.2486658693832,0 116.417970468859,-21.165331590936,0 116.334637167004,-21.1653327413302,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8J7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292975519557,-21.707007662416,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251308580343,-21.6653408678912,0 116.251309429231,-21.7486758325277,0 116.334642458771,-21.7486744569408,0 116.334641498491,-21.6653395531845,0 116.251308580343,-21.6653408678912,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BR8N4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>116.292976832983,-21.8736773744728,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>116.251310053559,-21.8320105766759,0 116.251310640716,-21.9153454265771,0 116.334643612408,-21.9153441722697,0 116.334643041924,-21.8320092838406,0 116.251310053559,-21.8320105766759,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542976798731,-22.0403626208345,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501309125909,-21.9986966482798,0 115.501310595568,-22.0820305762909,0 115.584644471552,-22.0820285933891,0 115.584643074804,-21.9986944580618,0 115.501309125909,-21.9986966482798,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626310718237,-22.0403602207394,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584643074804,-21.9986944580618,0 115.584644471552,-22.0820285933891,0 115.66797836167,-22.082025983417,0 115.667977037518,-21.998691732388,0 115.584643074804,-21.9986944580618,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.709644552621,-22.0403578264478,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.667977037518,-21.998691732388,0 115.66797836167,-22.082025983417,0 115.751312067725,-22.0820239205076,0 115.751310749378,-21.9986896392298,0 115.667977037518,-21.998691732388,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542978259098,-22.1236966260103,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501310595568,-22.0820305762909,0 115.501312100328,-22.1653644866855,0 115.584645922627,-22.1653626757296,0 115.584644471552,-22.0820285933891,0 115.501310595568,-22.0820305762909,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626312107972,-22.1236943373611,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584644471552,-22.0820285933891,0 115.584645922627,-22.1653626757296,0 115.667979744392,-22.1653600813332,0 115.66797836167,-22.082025983417,0 115.584644471552,-22.0820285933891,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.709645867528,-22.1236920057035,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.66797836167,-22.082025983417,0 115.667979744392,-22.1653600813332,0 115.751313373385,-22.16535802799,0 115.751312067725,-22.0820239205076,0 115.66797836167,-22.082025983417,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542979852594,-22.2070304567333,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501312100328,-22.1653644866855,0 115.501313813586,-22.2486981529071,0 115.58464760486,-22.2486964267811,0 115.584645922627,-22.1653626757296,0 115.501312100328,-22.1653644866855,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1C8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626313583469,-22.2070283960413,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584645922627,-22.1653626757296,0 115.58464760486,-22.2486964267811,0 115.667981244311,-22.248694116353,0 115.667979744392,-22.1653600813332,0 115.584645922627,-22.1653626757296,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1D1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792978200224,-22.0403559307682,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751310749378,-21.9986896392298,0 115.751312067725,-22.0820239205076,0 115.83464565107,-22.0820222223067,0 115.834644294001,-21.9986879677488,0 115.751310749378,-21.9986896392298,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1D2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876311724227,-22.0403542312853,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834644294001,-21.9986879677488,0 115.83464565107,-22.0820222223067,0 115.917979154453,-22.0820204948218,0 115.917977921453,-21.9986862371831,0 115.834644294001,-21.9986879677488,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1D4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.792979470795,-22.1236901279282,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.751312067725,-22.0820239205076,0 115.751313373385,-22.16535802799,0 115.834646873865,-22.1653563353489,0 115.83464565107,-22.0820222223067,0 115.751312067725,-22.0820239205076,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1D8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876314206971,-22.207022575203,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834646873865,-22.1653563353489,0 115.834648170079,-22.2486904443831,0 115.917981540078,-22.248688815057,0 115.917980390436,-22.1653544894396,0 115.834646873865,-22.1653563353489,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542981627392,-22.2903640549402,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501313813586,-22.2486981529071,0 115.501315665844,-22.3320316563467,0 115.584649441198,-22.3320299569733,0 115.58464760486,-22.2486964267811,0 115.501313813586,-22.2486981529071,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626315213611,-22.2903622681115,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.58464760486,-22.2486964267811,0 115.584649441198,-22.3320299569733,0 115.667982822362,-22.3320281094419,0 115.667981244311,-22.248694116353,0 115.58464760486,-22.2486964267811,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542983324426,-22.3736975058492,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501315665844,-22.3320316563467,0 115.501317123013,-22.415365040263,0 115.584650983009,-22.4153633553517,0 115.584649441198,-22.3320299569733,0 115.501315665844,-22.3320316563467,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626316878983,-22.3736958354295,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584649441198,-22.3320299569733,0 115.584650983009,-22.4153633553517,0 115.667984316768,-22.4153617138856,0 115.667982822362,-22.3320281094419,0 115.584649441198,-22.3320299569733,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542984787101,-22.4570308805199,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501317123013,-22.415365040263,0 115.50131848141,-22.4986983942986,0 115.584652451188,-22.4986967207767,0 115.584650983009,-22.4153633553517,0 115.501317123013,-22.415365040263,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1G8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626318386635,-22.4570292882599,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584650983009,-22.4153633553517,0 115.584652451188,-22.4986967207767,0 115.667985790262,-22.498695221168,0 115.667984316768,-22.4153617138856,0 115.584650983009,-22.4153633553517,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1H2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876315401119,-22.290356902862,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834648170079,-22.2486904443831,0 115.834649515239,-22.3320245507454,0 115.917982632159,-22.3320233613408,0 115.917981540078,-22.248688815057,0 115.834648170079,-22.2486904443831,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1K1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542986327276,-22.5403647460802,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.50131848141,-22.4986983942986,0 115.501319993209,-22.5820325388192,0 115.584654173141,-22.5820310978618,0 115.584652451188,-22.4986967207767,0 115.50131848141,-22.4986983942986,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1K2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.626319967127,-22.5403631502349,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.584652451188,-22.4986967207767,0 115.584654173141,-22.5820310978618,0 115.667987483066,-22.5820295796931,0 115.667985790262,-22.498695221168,0 115.584652451188,-22.4986967207767,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1K4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542987941075,-22.6236989228724,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501319993209,-22.5820325388192,0 115.50132156608,-22.6653665741088,0 115.584655888941,-22.6653653069255,0 115.584654173141,-22.5820310978618,0 115.501319993209,-22.5820325388192,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1K7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542989573103,-22.7070327090064,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.50132156608,-22.6653665741088,0 115.501323383237,-22.7487001724744,0 115.584657580126,-22.748698843904,0 115.584655888941,-22.6653653069255,0 115.50132156608,-22.6653665741088,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.292987071735,-22.7903703844196,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251318881821,-22.7487040729434,0 115.251320546748,-22.8320378513101,0 115.33465526165,-22.8320366958957,0 115.334653737673,-22.7487027809698,0 115.251318881821,-22.7487040729434,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.37632188336,-22.7903691326157,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.334653737673,-22.7487027809698,0 115.33465526165,-22.8320366958957,0 115.417990029048,-22.8320354842616,0 115.417988582501,-22.7487014849049,0 115.334653737673,-22.7487027809698,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.459656794466,-22.7903677663268,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.417988582501,-22.7487014849049,0 115.417990029048,-22.8320354842616,0 115.501325006431,-22.8320340477488,0 115.501323383237,-22.7487001724744,0 115.417988582501,-22.7487014849049,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.292988428139,-22.8737043171442,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251320546748,-22.8320378513101,0 115.251322379627,-22.9153716741374,0 115.33465630953,-22.9153707829784,0 115.33465526165,-22.8320366958957,0 115.251320546748,-22.8320378513101,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.37632293132,-22.8737032386681,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.33465526165,-22.8320366958957,0 115.33465630953,-22.9153707829784,0 115.417990600991,-22.9153697814405,0 115.417990029048,-22.8320354842616,0 115.33465526165,-22.8320366958957,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.459658183864,-22.8737019113242,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.417990029048,-22.8320354842616,0 115.417990600991,-22.9153697814405,0 115.501326338681,-22.9153683383867,0 115.501325006431,-22.8320340477488,0 115.417990029048,-22.8320354842616,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.292989342926,-22.9570384408466,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251322379627,-22.9153716741374,0 115.251322227319,-22.9987061432997,0 115.334656306226,-22.9987052075559,0 115.33465630953,-22.9153707829784,0 115.251322379627,-22.9153716741374,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1N8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376323572019,-22.9570374677513,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.33465630953,-22.9153707829784,0 115.334656306226,-22.9987052075559,0 115.417990834507,-22.9987041525242,0 115.417990600991,-22.9153697814405,0 115.33465630953,-22.9153707829784,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS1O1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.542991345001,-22.7903664282999,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.501323383237,-22.7487001724744,0 115.501325006431,-22.8320340477488,0 115.584659306764,-22.8320326841254,0 115.584657580126,-22.748698843904,0 115.501323383237,-22.7487001724744,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.042982622845,-23.0403768177214,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001316027406,-22.9987102047602,0 115.001316026277,-23.0820443690265,0 115.084649218285,-23.0820434306826,0 115.084649636441,-22.9987091752924,0 115.001316027406,-22.9987102047602,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126317167645,-23.0403757203394,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.084649636441,-22.9987091752924,0 115.084649218285,-23.0820434306826,0 115.167984698849,-23.0820422653864,0 115.167985633391,-22.9987077133548,0 115.084649636441,-22.9987091752924,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A3</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.209653192472,-23.0403743783535,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.167985633391,-22.9987077133548,0 115.167984698849,-23.0820422653864,0 115.251320751552,-23.0820410433522,0 115.251322227319,-22.9987061432997,0 115.167985633391,-22.9987077133548,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A4</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.042983137515,-23.1237108143073,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.001316026277,-23.0820443690265,0 115.00131646172,-23.1653782355344,0 115.084650248752,-23.165377259588,0 115.084649218285,-23.0820434306826,0 115.001316026277,-23.0820443690265,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A5</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126317433622,-23.1237097440654,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.084649218285,-23.0820434306826,0 115.084650248752,-23.165377259588,0 115.167985648958,-23.1653760574482,0 115.167984698849,-23.0820422653864,0 115.084649218285,-23.0820434306826,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A6</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.209653075654,-23.1237085320732,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.167984698849,-23.0820422653864,0 115.167985648958,-23.1653760574482,0 115.251321452459,-23.16537479876,0 115.251320751552,-23.0820410433522,0 115.167984698849,-23.0820422653864,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A7</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.042984051547,-23.2070446087034,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.00131646172,-23.1653782355344,0 115.001317006305,-23.2487120276027,0 115.084651641375,-23.2487109818723,0 115.084650248752,-23.165377259588,0 115.00131646172,-23.1653782355344,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4A8</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.126318659491,-23.2070434595528,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.084650248752,-23.165377259588,0 115.084651641375,-23.2487109818723,0 115.167987070231,-23.2487096595175,0 115.167985648958,-23.1653760574482,0 115.084650248752,-23.165377259588,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4B1</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.292988914725,-23.0403730002148,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.251322227319,-22.9987061432997,0 115.251320751552,-23.0820410433522,0 115.33465560213,-23.0820398571298,0 115.334656306226,-22.9987052075559,0 115.251322227319,-22.9987061432997,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4B2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.376323574315,-23.0403718902169,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.334656306226,-22.9987052075559,0 115.33465560213,-23.0820398571298,0 115.417990842405,-23.0820385728778,0 115.417990834507,-22.9987041525242,0 115.334656306226,-22.9987052075559,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BS4D2</name>
+		<snippet></snippet>
+		<styleUrl>#hcis_primary</styleUrl>
+		<visibility>1</visibility>
+		<MultiGeometry>
+			<Point><coordinates>115.876328854564,-23.0403649030505,0</coordinates></Point>
+			<Polygon><outerBoundaryIs><LinearRing><coordinates>115.834661891622,-22.9986979179814,0 115.83466252586,-23.0820327443334,0 115.917995817506,-23.0820318881196,0 115.91799511516,-22.9986971829801,0 115.834661891622,-22.9986979179814,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document></kml>
