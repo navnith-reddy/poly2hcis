@@ -1,3 +1,12 @@
+# -----------------------------------------------------------
+# ------------------- poly2hcis Tool ------------------------
+# -----------------------------------------------------------
+# Australian Communications Media Authority
+# Navnith Reddy, October 2022
+
+# The poly2hcis tool is designed to convert input contour plots
+# into HCIS defined KML files.
+
 import pandas as pd
 import geopandas as gpd
 import HCIS

@@ -1,3 +1,13 @@
+# -----------------------------------------------------------
+# ---- Hierarchial Cell Identifier Scheme (HCIS) Library ----
+# -----------------------------------------------------------
+# Australian Communications Media Authority
+# Navnith Reddy, October 2022
+
+# The HCIS library contains functions critical to geospatial
+# analysis using the ACMA's HCIS system of geographic 
+# referencing.
+
 import geopandas as gpd
 import contextily as cx
 import pandas as pd
@@ -19,6 +29,23 @@ def getASMG():
     
     # Extract zip file
     with zipfile.ZipFile("ASMG/ASMG_2012_GDA94.zip", 'r') as zip_ref:
+        zip_ref.extractall("./ASMG")
+    
+    return
+
+def getExtASMG0():
+    """Downloads Extension Australian Spectrum Map Grid shapefiles"""
+    
+    # Create ASMG folder if it doesn't exist
+    if not os.path.exists("./ASMG"):
+        os.mkdir("./ASMG")
+    
+    # Download ASMG shapefiles
+    response = requests.get("https://channelfinder.acma.gov.au/webwr/spectrum-maps/ExtASMG_2012_GDA94_L0.zip")
+    open('ASMG/ExtASMG_2012_GDA94_L0.zip', 'wb').write(response.content)
+    
+    # Extract zip file
+    with zipfile.ZipFile("ASMG/ExtASMG_2012_GDA94_L0.zip", 'r') as zip_ref:
         zip_ref.extractall("./ASMG")
     
     return
@@ -53,7 +80,7 @@ def buildLevels():
     """Using ASMG files, builds HCIS Level geodataframes.
 
     Returns:
-        l1, l2, l3, l4: Four geodataframes.
+        l0, l1, l2, l3, l4: Five geodataframes.
     """
     
     l1 = gpd.read_file("ASMG/ASMG_2012_GDA94_L1.shp")
@@ -72,6 +99,20 @@ def buildLevels():
     l4.rename(columns={'HCI_Level4':'HCIS_ID'}, inplace=True)
     
     return l1, l2, l3, l4
+
+def buildLevel0():
+    
+    """Using ASMG files, builds Extension HCIS Level 0 geodataframe.
+
+    Returns:
+        l0 : geodataframes.
+    """
+    
+    l0 = gpd.read_file("ASMG/ExtASMG_2012_GDA94_L0.shp")
+    l0.rename(columns={'HCI_Level0':'HCIS_ID'}, inplace=True)
+    l0.drop(columns=['HCI_Level1', 'HCI_Level2', 'HCI_Level3', 'HCI_Level4'], inplace=True)
+    
+    return l0
 
 def hcis2gdf (hcisList):
     """Convert list of HCIS identifiers into a geodataframe.
