@@ -71,7 +71,19 @@ def buildASMG():
     l4.rename(columns={'HCI_Level4':'HCIS_ID'}, inplace=True)
 
     asmg = pd.concat([l1, l2, l3, l4])
-    asmg.to_file('ASMG')
+    asmg.to_file('ASMG/asmg.shp')
+    
+    return
+
+def buildExtASMG():
+    """Build and save geodataframe of ASMG for HCIS Level 0 ID as csv file.
+
+    """
+    l0 = gpd.read_file("ASMG/ExtASMG_2012_GDA94_L0.shp")
+    l0.rename(columns={'HCI_Level0':'HCIS_ID'}, inplace=True)
+    l0.drop(columns=['HCI_Level1', 'HCI_Level2', 'HCI_Level3', 'HCI_Level4'], inplace=True)
+
+    l0.to_file('ASMG/ExtASMG')
     
     return
 
@@ -146,6 +158,28 @@ def poly2level (level, poly):
     gdf = gpd.overlay(level, poly, how="intersection")
     hcisList = gdf['HCIS_ID'].to_list()
     gdf = hcis2gdf(hcisList)
+    
+    return gdf
+
+def poly2level0 (level, poly):
+    
+    """Convert polygon into HCIS Level 0 geodataframe
+
+    Args:
+        level (geodataframe): HCIS Level geodataframe
+        poly (geodataframe): Input polygon dataframe
+
+    Returns:
+        gdf (geodataframe): Geodataframe of HCIS polygons
+    """
+    
+    gdf = gpd.overlay(level, poly, how="intersection")
+    hcisList = gdf['HCIS_ID'].to_list()
+    
+    asmg = level
+    hcisList = pd.Series(hcisList)
+    gdf = asmg[asmg['HCIS_ID'].isin(hcisList)]
+    gdf.reset_index(inplace=True)
     
     return gdf
 

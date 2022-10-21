@@ -17,7 +17,7 @@ import HCIS
 l1,l2,l3,l4 = HCIS.buildLevels()
 asmg = gpd.read_file("ASMG/ASMG.shp")
 
-# Recieve User Input
+# Receive User Input
 
 # Read KML and Reproject
 kml = gpd.read_file(filename , driver='KML')
